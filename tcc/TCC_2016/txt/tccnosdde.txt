@@ -1,0 +1,4 @@
+Este trabalho busca explicar a lógica de programação essencial para o funcionamento do jogo Icarus Labyrinthus com a utilização de POO, pois o mesmo não tratará de demonstrar a criação do jogo do inicio ao fim.
+
+ instrumento de medida de sinais elétricos/eletrônicos
+Herbie branco pérola

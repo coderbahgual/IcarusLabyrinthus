@@ -1,0 +1,7 @@
+This work aims to explain what the Class Cenario Game performs in the game Icarus Labyrinthus. For the same in the course of its content, it demonstrates how the OOP (Object Oriented Programming) facilitates in the explanation of the Class Cenario Game. As a result it can be concluded that in a simple way it is possible to understand the source code of the game Icarus Labyrinthus.
+
+This work aims to explain what the Class Cenario Game performs in the game Icarus Labyrinthus. For the same in the course of its content, it demonstrates how the OOP (Object Oriented Programming) facilitates in the explanation of the Class Cenario Game. As a result it can be concluded that in a simple way it is possible to understand the source code of the game Icarus Labyrinthus.
+Keywords: Class. Game. Programming.
+
+CONSTRUÇÃO DO JOGO ICARUS LABYRINTHUS
+

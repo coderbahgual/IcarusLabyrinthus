@@ -1,0 +1,15 @@
+1958 - Um vídeo jogo foi criado pelo físico William Higinbotham. 
+
+Era um jogo de tênis simples, mostrado em um osciloscópio e processado por um computador analógico. Note-se que o objetivo do programador, ao criar o jogo, tinha sido simplesmente chamar a atenção do público, que visitava as instalações do "Brookhaven National Laboratories", para verificar o poderio nuclear dos E.U.A.
+
+Mais tarde, o cientista aperfeiçoou o jogo, que recebeu o nome de "Tennis Programming", adaptando-o para ser mostrado em um monitor de 15 polegadas. Mas o projeto, conhecido também como "Tennis for Two", jamais foi patenteado. 
+
+Assim, por muitos anos, William Higinbotham, como seus colegas do projeto "Manhattan", ficou mais registrado na história por ter contribuído para a invenção da bomba atômica do que para um dos primeiros vídeo games.
+
+1961 - Em 30 de julho, os estudantes do MIT, Stephen Russell, Peter Samson, Dan Edwards, Martin Graetz, Alan Kotok, Steve Piner e Robert A. Saunders, desenvolveram o "SpaceWar!", na linguagem Assembly, inspirados nos livros de ficção científica de E. E. "Doc" Smith. No jogo, 2 jogadores deveriam controlar suas naves em um ambiente escuro, e tentar abater o adversário.
+
+Diferentemente do "Tennis for Two", inventado em 1958, o SpaceWar! foi realmente inventado para ser jogado. Assim, é considerado o primeiro jogo interativo de computador, tendo inspirado os futuros vídeo games.
+Massachusetts Institute of Technology
+História: Primeiros jogos digitais
+https://pt.wikipedia.org/wiki/Tennis_for_Two#/media/File:Tennis_for_Two_Machine_at_CAX_2010.jpg
+Edward Elmer Smit

@@ -1,0 +1,18 @@
+a logica do jogo recriando classicos da história dos videogames
+Becker, Marcus
+Casa do Código
+Peres, Helder Henrique do Nascimento
+Java para games: o tutorial para sua grande aventura
+EDITORA VIENA
+Java: uma abordagem sobre programação Java
+Cantelli, Geraldo Cesar
+Curso de POO Java (Programação Orientada a Objetos)
+https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY
+
+Henrique Machado Gasparotto
+Os 4 pilares da Programação Orientada a Objetos
+
+Mariana Lima
+http://www.inova.jor.br/2016/06/01/mercado-games-brasil/ em 01 de Dezembro de 2016.
+Mercado de games avança no Brasil
+São Paulo
